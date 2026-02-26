@@ -1,2 +1,10 @@
-# World_Layoffs
-Analyzed global layoff trends (2021–2023) to identify top affected companies and industries using data cleaning, aggregation, and visualization techniques. Cleaned and structured raw data, performed trend analysis, and created visual reports to identify patterns and peak layoff periods.
+<h1 align="center">Hi 👋, I'm Lucky Kumar</h1>
+<h3 align="center">Aspiring Data Analyst | Turning Data into Actionable Insights</h3>
+
+- 👨‍💻 All of my projects are available at [https://github.com/lucky10124](https://github.com/lucky10124)
+
+- 📫 How to reach me **Lucky.workda@gmail.com**
+
+
+<p align="left">
+</p>
